@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Harry Potter",
+      "image": "./images/harryPotter.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Ron Weasley",
+      "image": "./images/ron.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Hermione Granger",
+      "image": "./images/hermione.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Albus Dumbledore",
+      "image": "./images/dumbledore.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Fred Weasley",
+      "image": "./images/fredWeasley.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "George Weasley",
+      "image": "./images/georgeWeasley.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Ginny Weasley",
+      "image": "./images/ginny.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Luna Lovegood",
+      "image": "./images/luna.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Draco Malfoy",
+      "image": "./images/malfoy.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Neville Longbottom",
+      "image": "./images/neville.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Severus Snape",
+      "image": "./images/snape.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Lord Voldemort",
+      "image": "./images/voldemort.png",
+      "clicked": false
+      }
+]
